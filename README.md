@@ -12,7 +12,7 @@
    6. **React.JS**
    7. **MERN STACK**
    8. and more!
-- 📫 You can reach me at ahmed.zafar5645@gmail.com, or find me on Linkedin at https://linkedin.com/ahmed-zafarmcmaster (say hi)!! 📫
+- 📫 You can reach me at ahmed.zafar5645@gmail.com, or find me on Linkedin at https://linkedin.com/ahmed-z5645 (say hi)!! 📫
 - ⚡ Check out a formal display of my work on my portfolio at https://ahmedzafar.me ⚡
 
 <!---
