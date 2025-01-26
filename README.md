@@ -7,7 +7,7 @@
    1. **Python**
    2. **JavaScript**
    3. **Java**
-   4. **C**
+   4. **C/C++**
    5. **HTML/CSS**
    6. **React.JS**
    7. **MERN STACK**
