@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ahmed Zafar
-- I'm a second-year student at McMaster University pursuing a dual degree in **Software and Biomedical Engineering**
+- I'm a third-year student at McMaster University pursuing a dual degree in **Software and Biomedical Engineering**
 - 😄 Pronouns: He/him 😄
-- 🌱 I’m currently learning mobile development! Contact me if you have any cool project ideas! 🌱
+- 🌱 I’m currently learning computational biology! Contact me if you have any cool project ideas! 🌱
 - ❗ I have experience in AI/ML, Fullstack Development, and Teaching! ❗
 - I'm proficient in:
    1. **Python**
