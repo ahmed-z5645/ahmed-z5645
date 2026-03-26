@@ -13,7 +13,7 @@
    7. **MERN STACK**
    8. and more!
 - 📫 You can reach me at ahmed.zafar5645@gmail.com, or find me on Linkedin at https://linkedin.com/ahmed-z5645 (say hi)!! 📫
-- ⚡ Check out a formal display of my work on my portfolio at https://ahmedzafar.me ⚡
+- ⚡ Check out a formal display of my work on my portfolio at https://ahmedzafar.ca ⚡
 
 <!---
 ahmed-z5645/ahmed-z5645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
