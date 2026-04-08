@@ -2,15 +2,6 @@
 - I'm a third-year student at McMaster University pursuing a dual degree in **Software and Biomedical Engineering**
 - 😄 Pronouns: He/him 😄
 - ❗ I have experience in AI/ML, Fullstack Development, and Computational! ❗
-- I'm proficient in:
-   1. **Python**
-   2. **JavaScript**
-   3. **Java**
-   4. **C/C++**
-   5. **HTML/CSS**
-   6. **React.JS**
-   7. **MERN STACK**
-   8. and more!
 - 📫 You can reach me at ahmed.zafar5645@gmail.com, or find me on Linkedin at https://linkedin.com/ahmed-z5645 (say hi)!! 📫
 - ⚡ Check out a formal display of my work on my portfolio at https://ahmedzafar.ca ⚡
 
